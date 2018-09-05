@@ -1,0 +1,7 @@
+C:\Users\danyi.laszlo\source\repos\external\external\bin\Debug\external.exe.config
+C:\Users\danyi.laszlo\source\repos\external\external\bin\Debug\external.exe
+C:\Users\danyi.laszlo\source\repos\external\external\bin\Debug\external.pdb
+C:\Users\danyi.laszlo\source\repos\external\external\obj\Debug\external.csprojResolveAssemblyReference.cache
+C:\Users\danyi.laszlo\source\repos\external\external\obj\Debug\external.csproj.CoreCompileInputs.cache
+C:\Users\danyi.laszlo\source\repos\external\external\obj\Debug\external.exe
+C:\Users\danyi.laszlo\source\repos\external\external\obj\Debug\external.pdb
